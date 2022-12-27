@@ -1,0 +1,42 @@
+_repo: Zord-ido-2-kotet-Regeny-harom-reszben_69381
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Tull, Ödön
+    alias: Tull, Odon
+    birthdate: 1870
+    deathdate: 1911
+    gutenberg_agent_id: '54775'
+    url: http://www.gutenberg.org/2009/agents/54775
+    wikipedia: https://hu.wikipedia.org/wiki/Tull_%C3%96d%C3%B6n
+creator:
+  author:
+    agent_name: Kemény, Zsigmond, báró
+    alias: Kemeny, Zsigmond, baro
+    birthdate: 1814
+    deathdate: 1875
+    gutenberg_agent_id: '55039'
+    url: http://www.gutenberg.org/2009/agents/55039
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Zsigmond_Kem%C3%A9ny
+    - https://hu.wikipedia.org/wiki/Kem%C3%A9ny_Zsigmond
+description: ''
+gutenberg_issued: '2022-11-18'
+identifiers:
+  gutenberg: '69381'
+language: hu
+pgterms:marc905: 20221106012500kemny
+pgterms:marc906: '1911'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: 'Hungary: Franklin-Társulat,1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 19th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Zord idő (2. kötet): Regény három részben'
+url: http://www.gutenberg.org/ebooks/69381
